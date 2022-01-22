@@ -14,7 +14,7 @@
 - 🌻 I'm currently learning everything!
 - 🖥 I'm currently a programming coach at school
 - 😀2022 Goals: Build 20 web applications by the end of April
-- 💫I love Yoga, CrossFit, and exercises!!
+- 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
 
