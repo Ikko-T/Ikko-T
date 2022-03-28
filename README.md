@@ -6,14 +6,14 @@
 
 ---
 
-## I'm a Father, Husband, hopefully soon-to-be Developer, and Coach!
+## I'm a Father, Husband, and hopefully soon-to-be Developer!
 
 <br>
 
 - 🛫 I'm working towards becoming an app/web developer
 - 🌻 I'm currently learning everything!
-- 🖥 I'm currently a programming coach at school
-- 😀2022 Goals: Build 20 web applications by the end of April
+- 🖥 I'm currently looking for a job
+- 😀2022 Goals: Build 10 web applications by the end of April
 - 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
