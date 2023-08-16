@@ -6,14 +6,14 @@
 
 ---
 
-## I'm a Father, Husband, and hopefully soon-to-be Developer!
+## I'm a Father, Programming Learner and hopefully soon-to-be Developer!
 
 <br>
 
 - 🛫 I'm working towards becoming an app/web developer
 - 🌻 I'm currently learning everything!
 - 🖥 I'm currently looking for a job
-- 😀2022 Goals: Build 10 web applications by the end of April
+- 😀2023 Goals: Gain a certificate of Fundamental Information Technology Engineer by the end of October and win the competition for ISUCON13 (Iikanjini Speed Up Contest) in November
 - 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
@@ -23,8 +23,8 @@
 <br>
 
 [<img alt="me-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icon.svg" />][qiita]
 
 ---
@@ -40,7 +40,7 @@
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="Vues.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<!--<code><img alt="Vues.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
 <code><img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
@@ -54,7 +54,7 @@
 
 [![Ikko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikko-T&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[instagram]: https://www.instagram.com/ikko_homeworkout/
-[twitter]: https://twitter.com/ikko1021
+<!--[instagram]: https://www.instagram.com/ikko_homeworkout/
+[twitter]: https://twitter.com/ikko1021-->
 [website]: https://ikko-t.github.io/me-portfolio/
 [qiita]: https://qiita.com/Ikko-T
