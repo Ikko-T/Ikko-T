@@ -24,8 +24,6 @@
 
 [<img alt="me-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icon.svg" />][qiita]
-<!--[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 
 ---
 
@@ -44,7 +42,6 @@
 <code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<!--<code><img alt="Vues.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
 
 ---
 
@@ -56,5 +53,3 @@
 
 [website]: https://ikko-t.github.io/me-portfolio/
 [qiita]: https://qiita.com/Ikko-T
-<!--[instagram]: https://www.instagram.com/ikko_homeworkout/
-[twitter]: https://twitter.com/ikko1021-->
