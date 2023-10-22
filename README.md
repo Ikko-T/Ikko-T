@@ -1,4 +1,4 @@
-### Hi there, I'm Ikko 👏
+### Hi there, name's Ikko, Japan-born-and-raised. 👏
 
 <br>
 
@@ -13,7 +13,7 @@
 - 🛫 I'm working towards becoming an app/web developer
 - 🌻 I'm currently learning everything!
 - 🖥 I'm currently looking for a job
-- 😀2023 Goals: Gain a certificate of Fundamental Information Technology Engineer by the end of October and win the competition for ISUCON13 (Iikanjini Speed Up Contest) in November
+- 😀2023 & 2024 Goals: Gain a certificate of Fundamental Information Technology Engineer by the end of October and win the competition for ISUCON13 (Iikanjini Speed Up Contest) in November
 - 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
