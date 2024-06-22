@@ -6,14 +6,14 @@
 
 ---
 
-## I'm a Father, Programming Learner and hopefully soon-to-be Developer!
+## I'm a Father, Programming Learner and system engineer!
 
 <br>
 
-- 🛫 I'm working towards becoming an app/web developer
-- 🌻 I'm currently learning everything!
-- 🖥 I'm currently looking for a job
-- 😀2023 & 2024 Goals: Gain a certificate of Fundamental Information Technology Engineer by the end of October and win the competition for ISUCON13 (Iikanjini Speed Up Contest) in November
+- 🛫 I'm working towards taking part in AtCoder's contest in 2024
+- 🌻 I'm currently obsessed with C!
+- 🖥 Alogorithms are growing on me
+- 😀2024 Goal: Gain a certificate of Fundamental Information Technology Engineer
 - 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
