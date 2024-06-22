@@ -6,7 +6,7 @@
 
 ---
 
-## I'm a Father, Programming Learner and system engineer!
+## I'm a Father, Programming Learner and System Engineer!
 
 <br>
 
