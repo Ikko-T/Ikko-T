@@ -10,10 +10,10 @@
 
 <br>
 
-- 🛫 I'm working towards taking part in AtCoder's contest in 2024
+- 🛫 I'm working towards taking part in AtCoder's contest in 2025
 - 🌻 I'm currently obsessed with C!
 - 🖥 Alogorithms are growing on me
-- 😀2024 Goal: Gain a certificate of Fundamental Information Technology Engineer
+- 😀2025 Goal: Gain a certificate of Fundamental Information Technology Engineer
 - 💫I love Yoga, CrossFit, and pretty much any kind of exercise!!
 
 ---
